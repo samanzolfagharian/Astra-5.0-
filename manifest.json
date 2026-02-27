@@ -1,0 +1,22 @@
+{
+  "short_name": "آسترا ۵.۰",
+  "name": "Astra 5.0 - Digital Twin",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/zWDWymtV/1771300703380.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/zWDWymtV/1771300703380.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#0f172a",
+  "orientation": "portrait"
+}
